@@ -161,6 +161,6 @@ var replies = []Reply{
 	},
 	{
 		pattern: `(1\.16.*?(update|coming|support|release|impact|version|eta|when|out|support)|(update|coming|support|release|impact|version|eta|when|out|support).*?1\.16)`,
-		message: "No ETA on 1.16 Impact release, a message will be posted in <#" + announcements + "> when development starts & nightly builds.",
+		message: "No ETA on 1.16 Impact release, a message will be posted in <#" + announcements + "> when development starts & nightly builds. Any other info than the one just given is not offical! But IF you are an epic gamer and want to access the source code you can always go to our [git](https://snorlax.cc/gitea.html) and build it locally!",
 	},
 }
